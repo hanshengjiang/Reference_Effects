@@ -2,7 +2,9 @@
 
 
 ## Overview
-This repository contains numerical implementation for the paper [Intertemporal Pricing under Reference Effects: Integrating Reference Effects and Consumer Heterogeneity](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3702824). These files have been developed and tested in Python version 3.7.4 and R version 3.6.1.
+This repository contains numerical implementation for the paper [Intertemporal Pricing under Reference Effects: Integrating Reference Effects and Consumer Heterogeneity](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3702824). 
+
+<!---These files have been developed and tested in Python version 3.7.4 and R version 3.6.1.-->
 
 ## Folders
 - `scripts/`: Python and R files
