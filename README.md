@@ -33,4 +33,4 @@ Based on the purposes of all the scripts, we further categorize them into the fo
 
 
 ## Real Data and Access
-The MSOM-JD.com dataset can be donwloaded from this [link](https://connect.informs.org/msom/events/datadriven2020) given appropariate acess, and general introduction to the dataset is available in this [paper](https://pubsonline.informs.org/doi/abs/10.1287/msom.2020.0900). To be compatible with the codes, the uncompressed `.csv` data files should be stored in the folder `mmnl_git/MSOM_Data/`.
+The MSOM-JD.com dataset can be donwloaded from this [link](https://connect.informs.org/msom/events/datadriven2020) given appropariate acess, and general introduction to the dataset is available in this [paper](https://pubsonline.informs.org/doi/abs/10.1287/msom.2020.0900). To be compatible with the codes, the uncompressed `.csv` data files should be stored in the folder `./MSOM_Data/`.
