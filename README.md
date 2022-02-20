@@ -1,4 +1,4 @@
-# Software package for intertemporal pricing optimization under reference effects and consumer heterogeneity estimation. 
+# Software package for Intertemporal Pricing under Reference Effects
 
 ## Overview
 This repository contains numerical implementation for the paper [Intertemporal Pricing under Reference Effects: Integrating Reference Effects and Consumer Heterogeneity](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3702824). 
