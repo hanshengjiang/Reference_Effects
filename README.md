@@ -13,7 +13,7 @@ This repository contains numerical implementation for the paper [Intertemporal P
 - `MSOM_data_cleaned/`: extracted feature data in `.csv` files, ready as inputs of the estimation algorithm
 - `MSOM_data_estimated/`: estimated coefficients of MSOM data stored in `.csv` files
 - `MSOM_data_optimized/`: revenue comparison for real data study
-- 'MSOM_Data/`: MSOM-JD.com dataset
+- `MSOM_Data/`: MSOM-JD.com dataset
 
 ## Scripts and Modules
 Each python script in `scripts/` starting with `run_` is used for one run of a certain numerical experiment, while each python scipt ending with `_py` defines some functions to be imported by other files. 
