@@ -26,7 +26,7 @@ Based on the purposes of all the scripts, we further categorize them into the fo
   - Functions: `py_estimation.py, cross_validation.py, mmnl_simualtion.py` 
   - For simulated data: `run_mmnl_estimation_simulation.py`
   - For MSOM data: `run_mmnl_estimation.py`, `run_mmnl_estimation_compare.py`
-- Pricing Optimization: 
+- Pricing Optimization
   - Functions: `optimal_pricing_policy_exp_update.py`
   - For simulated data: `run_pricing_optimization.py`
   - For MSOM data: `run_mmnl_pricing_optimization.py`, `run_mmnl_revenue_compare.py`
