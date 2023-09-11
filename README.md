@@ -1,4 +1,4 @@
-# Software Package for Intertemporal Pricing under Reference Effects
+# Software Package --- IPRF: Intertemporal Pricing under Reference Effects
 
 ## Overview
 This repository contains numerical implementation for the paper [Intertemporal Pricing via Nonparametric Estimation: Integrating Reference Effects and Consumer Heterogeneity](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3702824). Along with the reproduction code, this repositiory code also contains general functions for implementing nonparametric estimation of consumer heterogeneity.
