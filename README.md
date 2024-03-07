@@ -1,7 +1,7 @@
 # IPRE: Intertemporal Pricing under Reference Effects
 
 ## Overview
-This repository contains numerical implementation for the paper [Intertemporal Pricing via Nonparametric Estimation: Integrating Reference Effects and Consumer Heterogeneity](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3702824). Along with the reproduction code, this repositiory code also contains general functions for implementing nonparametric estimation of consumer heterogeneity.
+This repository contains numerical implementation for the paper [Intertemporal Pricing via Nonparametric Estimation: Integrating Reference Effects and Consumer Heterogeneity](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3702824). Along with the reproduction code, this repository code also contains general functions for implementing nonparametric estimation of consumer heterogeneity.
 
 <!---These files have been developed and tested in Python version 3.7.4 and R version 3.6.1.-->
 
@@ -33,4 +33,4 @@ Based on the purposes of all the scripts, we further categorize them into the fo
 
 
 ## Real Data and Access
-The MSOM-JD.com dataset can be donwloaded from this [link](https://connect.informs.org/msom/events/datadriven2020) given membership access, and a general introduction to the dataset is available in this [paper](https://pubsonline.informs.org/doi/abs/10.1287/msom.2020.0900). To be compatible with the codes, the uncompressed `.csv` data files should be stored in the folder `./MSOM_Data/`.
+The MSOM-JD.com dataset can be downloaded from this [link](https://connect.informs.org/msom/events/datadriven2020) given membership access, and a general introduction to the dataset is available in this [paper](https://pubsonline.informs.org/doi/abs/10.1287/msom.2020.0900). To be compatible with the codes, the uncompressed `.csv` data files should be stored in the folder `./MSOM_Data/`.
