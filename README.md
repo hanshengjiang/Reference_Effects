@@ -16,7 +16,7 @@ This repository contains numerical implementation for the paper [Intertemporal P
 - `MSOM_Data/`: MSOM-JD.com dataset
 
 ## Scripts and Modules
-Each python script in `scripts/` starting with `run_` is used for one run of a certain numerical experiment, while each python scipt ending with `_py` defines some functions to be imported by other files. 
+Each python script in `scripts/` starting with `run_` is used for one run of a certain numerical experiment, while each python script ending with `_py` defines some functions to be imported by other files. 
 
 Based on the purposes of all the scripts, we further categorize them into the following modules.
 
